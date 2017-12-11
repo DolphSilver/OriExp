@@ -1,3 +1,5 @@
-*.
-!/.gitignore
-/lib
+.project
+.cproject
+.settings/
+src/.DS_Store
+.DS_Store
